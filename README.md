@@ -2,3 +2,5 @@
 [Diagrams as of yet](https://excalidraw.com/#json=jY-pLf3gztjtO8c4XBbEK,UNI85paRiGHh0Ugveq0jLg)   
 [aws free trial creation](https://aws.amazon.com/free/)   
 [Installation guide for jenkins ](https://www.jenkins.io/doc/book/installing/linux/#debianubuntu)   
+[docker cheatsheet](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
+[kubernetes documentation](https://kubernetes.io/docs/concepts/workloads/pods/)
